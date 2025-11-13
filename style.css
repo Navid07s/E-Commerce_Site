@@ -69,7 +69,6 @@
             height: auto;
             float: left;
         }
-
         .shoes {
             display: flex;
             width: 60%;
@@ -77,14 +76,12 @@
             gap: 10px;
 
         }
-
         .shoes img {
             width: 200px;
             height: 200px;
             margin-right: 30px;
             margin-bottom: 10px;
         }
-
         .container1 {
             background-color: azure;
             width: 100%;
@@ -93,7 +90,6 @@
             justify-content: space-between;
             align-items: center;
         }
-
         .content1 {
             position: absolute;
             right: 0%;
